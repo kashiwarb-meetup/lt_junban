@@ -4,7 +4,7 @@ require_relative "lib/lt_junban/version"
 
 Gem::Specification.new do |spec|
   spec.name = "lt_junban"
-  spec.version = "0.1.0"
+  spec.version = "0.1.1"
   spec.authors = ["Koji NAKAMURA"]
   spec.email = ["kozy4324@gmail.com"]
 
