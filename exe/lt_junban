@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "lt_junban"
+
+LtJunban::CLI.run(ARGV)
