@@ -5,12 +5,12 @@ require_relative "lib/lt_junban/version"
 Gem::Specification.new do |spec|
   spec.name = "lt_junban"
   spec.version = "0.1.0"
-  spec.authors = ["Your Name"]
-  spec.email = ["your_email@example.com"]
+  spec.authors = ["Koji NAKAMURA"]
+  spec.email = ["kozy4324@gmail.com"]
 
   spec.summary = "A CLI tool to shuffle strings"
   spec.description = "lt_junban is a command-line tool that takes a string as input and returns a shuffled version of it."
-  spec.homepage = "https://example.com"
+  spec.homepage = "https://github.com/kashiwarb-meetup/lt_junban"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
 
