@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["kozy4324@gmail.com"]
 
   spec.summary = "A CLI tool to shuffle strings"
-  spec.description = "lt_junban is a command-line tool that takes a string as input and returns a shuffled version of it."
+  spec.description = "lt_junban is a command-line tool that takes a list of presenters as input and shuffles their order."
   spec.homepage = "https://github.com/kashiwarb-meetup/lt_junban"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
